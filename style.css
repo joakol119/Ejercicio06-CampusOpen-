@@ -1,0 +1,9 @@
+.galeria{
+    display: flexbox;
+    overflow: hidden;
+}
+.imagenes{
+    widht:300px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
